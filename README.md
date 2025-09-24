@@ -37,7 +37,6 @@ Seekho aspires to **redefine the learning experience**, ensuring inclusivity, ac
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- Firebase
 - Bootstrap / TailwindCSS
 - Temporary Store data on localhost
 
