@@ -74,9 +74,9 @@ The following flowchart represents the navigation and structure of Seekho:
 
 1. **Planning & Requirement Gathering** – Surveys, competitor analysis, student/teacher interviews.  
 2. **Designing** – Prototypes, user-centric UI/UX, accessibility-first design.  
-3. **Development** – Iterative coding in React + Node.js.  
+3. **Development** – Iterative coding in HTML, CSS, and JavaScript.  
 4. **Testing** – Unit tests, usability tests, bug fixing.  
-5. **Deployment** – CI/CD pipelines, smooth release strategy.  
+5. **Methodology** – Agile methodology, smooth release strategy.  
 6. **Maintenance** – Monitoring KPIs, addressing user feedback, continuous improvement.  
 
 ---
